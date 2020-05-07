@@ -1,0 +1,13 @@
+{
+  "name": "Mahi-Mahi/Mahi-WP",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/Mahi-Mahi/Mahi-WP",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.4"
+  }
+}
